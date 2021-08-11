@@ -1,1 +1,1 @@
-curl -X POST "https://azure-ai-100-labs-cogser03.cognitiveservices.azure.com/text/analytics/v3.0/languages?" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: 08b1abf764514178a36ef724c5d13724" --data-ascii "{'documents':[{'id':1,'text':'hello'}]}"
+curl -X POST "https://ai102-cog-ser.cognitiveservices.azure.com/text/analytics/v3.0/languages?" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: a1d50b871bec425e8f8e45da0a2037fe" --data-ascii "{'documents':[{'id':1,'text':'hello'}]}"
