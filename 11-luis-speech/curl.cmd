@@ -1,0 +1,1 @@
+curl -X POST https://ai-102ag-txt-analytics.cognitiveservices.azure.com/qnamaker/v5.0-preview.2/knowledgebases/af90666c-e704-48a0-8b91-2c09322dc813/generateAnswer -H "Ocp-Apim-Subscription-Key: cb4869aaa98643cfa9e7283568f6d315" -H "Content-type: application/json" -d "{'question':'What is a learning path?'}"
